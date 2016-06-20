@@ -84,7 +84,7 @@
     "sails-build-dictionary": "~0.10.1",
     "sails-disk": "~0.10.9",
     "sails-generate": "~0.13.0",
-    "sails-hook-orm": "git@github.com:luminarytech/sails-hook-orm.git",
+    "sails-hook-orm": "https://github.com/luminarytech/sails-hook-orm.git",
     "sails-hook-sockets": "~0.13.0",
     "sails-stringfile": "~0.3.2",
     "sails-util": "~0.11.0",
@@ -94,7 +94,7 @@
     "skipper": "~0.5.8",
     "uid-safe": "1.1.0",
     "walk": "2.3.9",
-    "waterline": "git@github.com:luminarytech/waterline.git"
+    "waterline": "https://github.com/luminarytech/waterline.git"
   },
   "devDependencies": {
     "benchmark": "1.0.0",
